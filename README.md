@@ -401,7 +401,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## Circuit board :
  
- <img width="664" height="1280" alt="image" src="https://github.com/user-attachments/assets/88f722c8-c445-4f89-930c-aace602046bf" />
+<img width="221" height="386" alt="image" src="https://github.com/user-attachments/assets/f0c8b17b-fbe1-4337-9216-7e99e367d8a1" />
+
 
  
 ## Result :
